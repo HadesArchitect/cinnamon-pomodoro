@@ -54,7 +54,7 @@
     "auto_start_after_break_ends" : {
         "type" : "checkbox",
         "description" : "Auto start a new pomodoro after a break ends",
-        "default" : true
+        "default" : false
     },
     
     "display_icon" : {
